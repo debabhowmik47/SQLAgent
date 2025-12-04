@@ -1,4 +1,4 @@
-# SQL Chatbot Boss (LangGraph + Gemini + MySQL)
+# SQL Chatbot (LangGraph + Gemini + MySQL)
 
 This project is a command-line chatbot that answers questions about a MySQL database.  
 It uses:
